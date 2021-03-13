@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">I'm Humberto Moura</h1>
+<h1 align="center">Humberto Moura</h1>
 <h3 align="center">Machine Learning Enginner</h3>
 
 <br />
@@ -15,14 +15,14 @@ I'm a PhD candidate in Appied Computing.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Professor @ IFRS**
+- 🔭 I’m currently working as a **Professor / Researcher @ IFRS**
 - 👯 I’m looking to collaborate on **AI Products**
 - 🤔 I’m looking for help with **learning anything new!**
-- 👨‍💻 Anything about me is available at **[humnertomoura.com.br](https://humbertomoura.com.br)**
-- 📝 I regularly write articles at **[humbertomoura](https://www.humbertomoura.com.br)**
+- 👨‍💻 Anything about me is available on **[linkedin](https://www.linkedin.com/in/humbertomoura)**
+- 📝 I regularly write articles on **[Data Science Central](https://www.datasciencecentral.com/profile/humbertomoura)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **contato@humbertomoura.com.br**
-- ⚡ Fun fact **I play Guitar, Bass and love music!**
+- ⚡ Fun fact **I play Guitar and love rock music!**
 
 <br>
 <p align="center">
