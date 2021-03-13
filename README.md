@@ -19,7 +19,7 @@ I'm a PhD candidate in Appied Computing.
 - 👨‍💻 Anything about me is available on **[linkedin](https://www.linkedin.com/in/humbertomoura)**
 - 📝 I regularly write articles on **[Data Science Central](https://www.datasciencecentral.com/profile/humbertomoura)**
 - 💬 Ask me about **anything you feel like!**
-- 📫 How to reach me **contato@humbertomoura.com.br**
+- 📫 How to reach me **humberto@humbertomoura.com.br**
 - ⚡ Fun fact **I play Guitar and love rock music!**
 
 <br>
