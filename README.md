@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
 <h1 align="center">Humberto Moura</h1>
 <h3 align="center">Machine Learning Enginner</h3>
-
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertomoura" alt="humbertomoura" /> </p>
