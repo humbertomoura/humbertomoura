@@ -4,15 +4,13 @@
 <h1 align="center">Humberto Moura</h1>
 <h3 align="center">Machine Learning Enginner</h3>
 
-<br />
-<br />
+
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertomoura" alt="humbertomoura" /> </p>
 I'm a PhD candidate in Appied Computing.
 <br/>
-.
-<br>
-  
+
+
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Professor / Researcher @ IFRS**
