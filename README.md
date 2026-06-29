@@ -2,7 +2,7 @@
 
 **Research Scientist \& Professor** working at the intersection of **deep learning** and **distributed/edge systems** applied to **healthcare**. PhD in Applied Computing, IEEE Senior Member. I design and build privacy-preserving AI systems for clinical environments — from architecture to running code.
 
-\---
+---
 
 ## 🚢 What I'm Currently Working On
 
@@ -10,7 +10,7 @@
 * Leading the **Fábrica de Software** lab at IFRS Campus Osório
 * Writing about applying **generative AI to real business problems**
 
-\---
+---
 
 ## 📚 Tech Stack
 
@@ -22,7 +22,7 @@
 * **Frontend:** React, Next.js
 * **Cloud:** Microsoft Azure (AI Engineer), edge/fog architectures, AWS Educator
 
-\---
+---
 
 ## 🔬 Research \& Publications
 
@@ -37,7 +37,7 @@ My published work (IEEE Access) focuses on **privacy-preserving distributed arch
 
 🏆 Two Brazilian Ministry of Education (MEC) innovation awards.
 
-\---
+---
 
 ## 📝 Writing \& Thought Leadership
 
@@ -47,7 +47,7 @@ I publish on **generative AI for business and clinical applications**, including
 * Local/on-premises LLM deployment for regulated environments
 * Deep learning and distributed systems in healthcare.
 
-\---
+---
 
 ## 📫 Connect with Me
 
@@ -57,7 +57,7 @@ I publish on **generative AI for business and clinical applications**, including
 * ❌ [X](https://www.x.com/humbertomoura)
 * 📧 [Email](mailto:humberto@humbertomoura.com.br)
 
-\---
+---
 
 <!--
 <details>
@@ -72,7 +72,7 @@ I publish on **generative AI for business and clinical applications**, including
 </details>
 
 
-\---
+---
 -->
 
 Thanks for stopping by. Feel free to explore, star, or reach out! 😊
