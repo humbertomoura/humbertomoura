@@ -3,6 +3,11 @@
 **Research Scientist \& Professor** working at the intersection of **deep learning** and **distributed/edge systems** applied to **healthcare**. PhD in Applied Computing, IEEE Senior Member. I design and build privacy-preserving AI systems for clinical environments — from architecture to running code.
 
 ---
+## 📖 My books
+* **AI Agents from First Principles** — build an AI agent in plain Python, no frameworks · [code](https://github.com/humbertomoura/ai-agents-from-first-principles) · [Kindle](https://www.amazon.com/dp/B0HNJ65Q5S) · [Paperback](https://www.amazon.com/dp/B0HNJGRL9S)
+* **Agentes de IA na Prática** (🇧🇷) · [código](https://github.com/humbertomoura/agentes-ia-livro) · [Amazon](https://www.amazon.com.br/dp/B0HMZ3N4C4) · [UICLAP](https://loja.uiclap.com/titulo/ua212928)
+
+---
 
 ## 🚢 What I'm Currently Working On
 
